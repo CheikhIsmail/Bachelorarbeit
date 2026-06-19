@@ -29,13 +29,13 @@ TRUCK | 1234AA06
 ## Example Results
 
 ### Truck Detection + ALPR
-20251013004938453_jpg.rf.155ea779da97d2023592d2aab62ae376_combined.jpg
+![Truck Detection](results/20251013004938453_jpg.rf.155ea779da97d2023592d2aab62ae376_combined.jpg)
 
 ### SUV Detection + ALPR
-20251013073753396-Copy_jpg.rf.29755d068ca966af5fb4cb6dab764b85_combined.jpg
+![SUV Detection](results/20251013073753396-Copy_jpg.rf.29755d068ca966af5fb4cb6dab764b85_combined.jpg)
 
 ### CAR Detection + ALPR
-20251013075228586_jpg.rf.353718f7df7c01ee80b1a528c8a035cf_combined.jpg
+![CAR Detection](results/20251013075228586_jpg.rf.353718f7df7c01ee80b1a528c8a035cf_combined.jpg)
 
 ## Structure
 
