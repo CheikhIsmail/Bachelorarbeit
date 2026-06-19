@@ -6,23 +6,23 @@ End-to-end Automatic License Plate Recognition (ALPR) and Vehicle Type Classific
 
 ## Features
 
-Vehicle Type Detection (YOLOv8 ONNX)
-License Plate Detection (YOLOv8 ONNX)
-OCR Recognition
-Plate-to-Vehicle Association
-Real-Time Inference Pipeline
-ONNX Runtime Deployment
+- Vehicle Type Detection (YOLOv8 ONNX)
+- License Plate Detection (YOLOv8 ONNX)
+- OCR Recognition
+- Plate-to-Vehicle Association
+- Real-Time Inference Pipeline
+- ONNX Runtime Deployment
 
 ## Supported vehicle classes:
 
-BUS
-CARS
-MINIBUS
-SUV
-TRUCK
-VAN
+- BUS
+- CARS
+- MINIBUS
+- SUV
+- TRUCK
+- VAN
 
-Final output format:
+# Final output format:
 
 TRUCK | 1234AA06
 
