@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['BUS', 'CARS', 'MINIBUS', 'SUV', 'TRUCK', 'VAN']
+
+roboflow:
+  workspace: cheikh-bkwou
+  project: yolocardetection-dvdsb
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cheikh-bkwou/yolocardetection-dvdsb/dataset/1

@@ -1,0 +1,6 @@
+opencv-python
+numpy
+onnxruntime
+onnxruntime-gpu
+fast-plate-ocr
+PyYAML
